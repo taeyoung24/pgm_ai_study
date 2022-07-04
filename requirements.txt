@@ -1,0 +1,12 @@
+discord.py
+dropbox
+matplotlib
+tabulate[widechars]
+pillow
+requests
+schedule
+jamo
+openpyxl
+rsa
+lzstring
+pyopenssl
